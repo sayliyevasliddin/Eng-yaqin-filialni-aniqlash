@@ -21,7 +21,7 @@ pip install -r requirements.txt
 ```
 
 ## Ishga tushirish
-1. `.env` faylida **BOT_TOKEN** ni sozlang.
+1. `config.py` faylida **BOT_TOKEN** ni sozlang.
 2. Quyidagi buyruqni ishga tushiring:
 ```bash
 python bot.py
